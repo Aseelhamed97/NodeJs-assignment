@@ -1,0 +1,254 @@
+[
+    {
+        "airplane_type_name": "MD80",
+        "airport_code": "SCK"
+    },
+    {
+        "airplane_type_name": "MD80",
+        "airport_code": "SAN"
+    },
+    {
+        "airplane_type_name": "MD80",
+        "airport_code": "IWA"
+    },
+    {
+        "airplane_type_name": "MD80",
+        "airport_code": "LAS"
+    },
+    {
+        "airplane_type_name": "ERJ145",
+        "airport_code": "IWA"
+    },
+    {
+        "airplane_type_name": "ERJ145",
+        "airport_code": "FAT"
+    },
+    {
+        "airplane_type_name": "ERJ145",
+        "airport_code": "ORD"
+    },
+    {
+        "airplane_type_name": "ERJ145",
+        "airport_code": "MSN"
+    },
+    {
+        "airplane_type_name": "CRJ440",
+        "airport_code": "MSN"
+    },
+    {
+        "airplane_type_name": "CRJ440",
+        "airport_code": "MSP"
+    },
+    {
+        "airplane_type_name": "CRJ100",
+        "airport_code": "MSN"
+    },
+    {
+        "airplane_type_name": "CRJ100",
+        "airport_code": "MSP"
+    },
+    {
+        "airplane_type_name": "CRJ700",
+        "airport_code": "MSN"
+    },
+    {
+        "airplane_type_name": "CRJ700",
+        "airport_code": "SLC"
+    },
+    {
+        "airplane_type_name": "CRJ700",
+        "airport_code": "ORD"
+    },
+    {
+        "airplane_type_name": "170",
+        "airport_code": "OAK"
+    },
+    {
+        "airplane_type_name": "170",
+        "airport_code": "LAX"
+    },
+    {
+        "airplane_type_name": "190",
+        "airport_code": "SLC"
+    },
+    {
+        "airplane_type_name": "190",
+        "airport_code": "OAK"
+    },
+    {
+        "airplane_type_name": "707",
+        "airport_code": "HNL"
+    },
+    {
+        "airplane_type_name": "707",
+        "airport_code": "OAK"
+    },
+    {
+        "airplane_type_name": "707",
+        "airport_code": "MDW"
+    },
+    {
+        "airplane_type_name": "707",
+        "airport_code": "SJC"
+    },
+    {
+        "airplane_type_name": "727",
+        "airport_code": "SMF"
+    },
+    {
+        "airplane_type_name": "727",
+        "airport_code": "SJC"
+    },
+    {
+        "airplane_type_name": "727",
+        "airport_code": "LAX"
+    },
+    {
+        "airplane_type_name": "737",
+        "airport_code": "OAK"
+    },
+    {
+        "airplane_type_name": "737",
+        "airport_code": "SFO"
+    },
+    {
+        "airplane_type_name": "737",
+        "airport_code": "ORD"
+    },
+    {
+        "airplane_type_name": "737",
+        "airport_code": "MDW"
+    },
+    {
+        "airplane_type_name": "737",
+        "airport_code": "ONT"
+    },
+    {
+        "airplane_type_name": "737",
+        "airport_code": "SMF"
+    },
+    {
+        "airplane_type_name": "737",
+        "airport_code": "SJC"
+    },
+    {
+        "airplane_type_name": "737",
+        "airport_code": "SAN"
+    },
+    {
+        "airplane_type_name": "737",
+        "airport_code": "LAS"
+    },
+    {
+        "airplane_type_name": "747",
+        "airport_code": "SFO"
+    },
+    {
+        "airplane_type_name": "747",
+        "airport_code": "JFK"
+    },
+    {
+        "airplane_type_name": "747",
+        "airport_code": "ORD"
+    },
+    {
+        "airplane_type_name": "747",
+        "airport_code": "MSP"
+    },
+    {
+        "airplane_type_name": "747",
+        "airport_code": "DEN"
+    },
+    {
+        "airplane_type_name": "757",
+        "airport_code": "LAS"
+    },
+    {
+        "airplane_type_name": "757",
+        "airport_code": "PHX"
+    },
+    {
+        "airplane_type_name": "757",
+        "airport_code": "DCA"
+    },
+    {
+        "airplane_type_name": "757",
+        "airport_code": "LAX"
+    },
+    {
+        "airplane_type_name": "757",
+        "airport_code": "HNL"
+    },
+    {
+        "airplane_type_name": "777",
+        "airport_code": "ORD"
+    },
+    {
+        "airplane_type_name": "777",
+        "airport_code": "LAX"
+    },
+    {
+        "airplane_type_name": "777",
+        "airport_code": "IAD"
+    },
+    {
+        "airplane_type_name": "787",
+        "airport_code": "IAH"
+    },
+    {
+        "airplane_type_name": "787",
+        "airport_code": "JFK"
+    },
+    {
+        "airplane_type_name": "787",
+        "airport_code": "EWR"
+    },
+    {
+        "airplane_type_name": "A321",
+        "airport_code": "DFW"
+    },
+    {
+        "airplane_type_name": "A321",
+        "airport_code": "DEN"
+    },
+    {
+        "airplane_type_name": "A332",
+        "airport_code": "OAK"
+    },
+    {
+        "airplane_type_name": "A332",
+        "airport_code": "HNL"
+    },
+    {
+        "airplane_type_name": "A320",
+        "airport_code": "JFK"
+    },
+    {
+        "airplane_type_name": "A320",
+        "airport_code": "LAX"
+    },
+    {
+        "airplane_type_name": "A320",
+        "airport_code": "IAH"
+    },
+    {
+        "airplane_type_name": "A319",
+        "airport_code": "SLC"
+    },
+    {
+        "airplane_type_name": "A319",
+        "airport_code": "PHX"
+    },
+    {
+        "airplane_type_name": "A319",
+        "airport_code": "MSP"
+    },
+    {
+        "airplane_type_name": "A319",
+        "airport_code": "SFO"
+    },
+    {
+        "airplane_type_name": "A319",
+        "airport_code": "MDW"
+    }
+]

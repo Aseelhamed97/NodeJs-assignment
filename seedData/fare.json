@@ -1,0 +1,62 @@
+[
+    {
+        "flight_number": "UA560",
+        "fare_code": "L",
+        "amount": "350",
+        "restrictions": "No"
+    },
+    {
+        "flight_number": "G4154",
+        "fare_code": "Y",
+        "amount": "106",
+        "restrictions": "No"
+    },
+    {
+        "flight_number": "G4155",
+        "fare_code": "Y",
+        "amount": "142",
+        "restrictions": "No"
+    },
+    {
+        "flight_number": "DL5841",
+        "fare_code": "Y",
+        "amount": "100",
+        "restrictions": "Yes"
+    },
+    {
+        "flight_number": "DL1149",
+        "fare_code": "B",
+        "amount": "500",
+        "restrictions": "Yes"
+    },
+    {
+        "flight_number": "HA48",
+        "fare_code": "F",
+        "amount": "1000",
+        "restrictions": "Yes"
+    },
+    {
+        "flight_number": "AA1522",
+        "fare_code": "Y",
+        "amount": "250",
+        "restrictions": "No"
+    },
+    {
+        "flight_number": "AA3472",
+        "fare_code": "Y",
+        "amount": "150",
+        "restrictions": "Yes"
+    },
+    {
+        "flight_number": "WN380",
+        "fare_code": "Y",
+        "amount": "256",
+        "restrictions": "No"
+    },
+    {
+        "flight_number": "B6624",
+        "fare_code": "Y",
+        "amount": "98",
+        "restrictions": "No"
+    }
+]

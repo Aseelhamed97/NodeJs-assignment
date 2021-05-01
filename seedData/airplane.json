@@ -1,0 +1,152 @@
+[
+    {
+        "airplane_id": "1",
+        "total_number_of_seats": "180",
+        "airplane_type": "A320"
+    },
+    {
+        "airplane_id": "2",
+        "total_number_of_seats": "175",
+        "airplane_type": "A320"
+    },
+    {
+        "airplane_id": "3",
+        "total_number_of_seats": "156",
+        "airplane_type": "A319"
+    },
+    {
+        "airplane_id": "4",
+        "total_number_of_seats": "150",
+        "airplane_type": "A319"
+    },
+    {
+        "airplane_id": "5",
+        "total_number_of_seats": "145",
+        "airplane_type": "A319"
+    },
+    {
+        "airplane_id": "6",
+        "total_number_of_seats": "188",
+        "airplane_type": "707"
+    },
+    {
+        "airplane_id": "7",
+        "total_number_of_seats": "187",
+        "airplane_type": "707"
+    },
+    {
+        "airplane_id": "8",
+        "total_number_of_seats": "124",
+        "airplane_type": "727"
+    },
+    {
+        "airplane_id": "9",
+        "total_number_of_seats": "123",
+        "airplane_type": "737"
+    },
+    {
+        "airplane_id": "10",
+        "total_number_of_seats": "120",
+        "airplane_type": "737"
+    },
+    {
+        "airplane_id": "11",
+        "total_number_of_seats": "550",
+        "airplane_type": "747"
+    },
+    {
+        "airplane_id": "12",
+        "total_number_of_seats": "500",
+        "airplane_type": "747"
+    },
+    {
+        "airplane_id": "13",
+        "total_number_of_seats": "225",
+        "airplane_type": "757"
+    },
+    {
+        "airplane_id": "14",
+        "total_number_of_seats": "290",
+        "airplane_type": "767"
+    },
+    {
+        "airplane_id": "15",
+        "total_number_of_seats": "285",
+        "airplane_type": "767"
+    },
+    {
+        "airplane_id": "16",
+        "total_number_of_seats": "440",
+        "airplane_type": "777"
+    },
+    {
+        "airplane_id": "17",
+        "total_number_of_seats": "323",
+        "airplane_type": "787"
+    },
+    {
+        "airplane_id": "18",
+        "total_number_of_seats": "50",
+        "airplane_type": "ERJ145"
+    },
+    {
+        "airplane_id": "19",
+        "total_number_of_seats": "50",
+        "airplane_type": "ERJ145"
+    },
+    {
+        "airplane_id": "20",
+        "total_number_of_seats": "110",
+        "airplane_type": "190"
+    },
+    {
+        "airplane_id": "21",
+        "total_number_of_seats": "80",
+        "airplane_type": "170"
+    },
+    {
+        "airplane_id": "22",
+        "total_number_of_seats": "44",
+        "airplane_type": "CRJ440"
+    },
+    {
+        "airplane_id": "23",
+        "total_number_of_seats": "40",
+        "airplane_type": "CRJ440"
+    },
+    {
+        "airplane_id": "24",
+        "total_number_of_seats": "50",
+        "airplane_type": "CRJ100"
+    },
+    {
+        "airplane_id": "25",
+        "total_number_of_seats": "70",
+        "airplane_type": "CRJ700"
+    },
+    {
+        "airplane_id": "26",
+        "total_number_of_seats": "75",
+        "airplane_type": "CRJ700"
+    },
+    {
+        "airplane_id": "27",
+        "total_number_of_seats": "77",
+        "airplane_type": "CRJ700"
+    },
+    {
+        "airplane_id": "28",
+        "total_number_of_seats": "166",
+        "airplane_type": "MD80"
+    },
+    {
+        "airplane_id": "29",
+        "total_number_of_seats": "200",
+        "airplane_type": "A321"
+    },
+    {
+        "airplane_id": "30",
+        "total_number_of_seats": "180",
+        "airplane_type": "A332"
+    }
+]
